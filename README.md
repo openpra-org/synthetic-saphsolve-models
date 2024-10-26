@@ -20,7 +20,7 @@ This repository includes synthetic models in SAPHSOLVE JSON format. The goals of
 The repository also maintains a `schema` for the models to give users valuable insights.
 
 ## 1. SAPHSOLVE Model Format
-
+SAPHSOLVE is the quantification engine of legacy PRA tool SAPHIRE. SAPHSOLVE input and output format are detailed in a [report](https://www.osti.gov/biblio/2203095) published by Idaho National Laboratory.
 
 ## 2. Generation of Models
 Models are generated leveraging [fault tree generator](https://github.com/rakhimov/scram/tree/develop/scripts)
