@@ -1,5 +1,8 @@
+# Synthetic SAPHSOLVE Models 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13996735.svg)](https://doi.org/10.5281/zenodo.13996736)
+
 <!-- TOC -->
-* [Synthetic SAPHSOLVE Models](#synthetic-saphsolve-models)
+* [Synthetic SAPHSOLVE Models](#synthetic-saphsolve-models-)
   * [1. SAPHSOLVE Model Format](#1-saphsolve-model-format)
   * [2. Generation of Models](#2-generation-of-models)
   * [3. Configuration of Models](#3-configuration-of-models)
@@ -8,7 +11,7 @@
   * [5. Additional References Related to Synthetic Models](#5-additional-references-related-to-synthetic-models)
 <!-- TOC -->
 
-# Synthetic SAPHSOLVE Models [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13996736.svg)](https://doi.org/10.5281/zenodo.13996736)
+
 
 This repository includes synthetic models in SAPHSOLVE JSON format. The goals of including these models are to:
 
